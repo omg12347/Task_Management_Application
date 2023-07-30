@@ -3,6 +3,14 @@
 
 TaskGenius is an intuitive command-line task organizer that helps you stay on top of your tasks and boosts your productivity. It allows you to add, update, and delete tasks, making it a valuable tool for managing your daily, weekly, or monthly responsibilities.
 
+## Demo Video
+
+
+https://github.com/omg12347/Task_Management_Application/assets/97293861/4f791f15-3e71-468d-b3bb-bbcca3fc8eee
+
+
+
+
 ## Features
 
 - **Task Management:** Easily add new tasks to your TaskGenius list by providing a title, description, due date, and priority level.
